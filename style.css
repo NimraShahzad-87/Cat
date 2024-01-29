@@ -11,3 +11,28 @@
 .h3{
     font-size: larger;
 }
+/* ............................footer-wrapper........................ */
+footer{
+    background-color: #000;
+    color: #fff;
+    padding: 80px;
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 400;
+    
+}
+footer h6{
+    padding-bottom: 30px;
+}
+footer li{
+    padding-bottom: 15px;
+}
+footer a{
+    color: #fff;
+}
+.fa-brands{
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    width: 45px;
+}
