@@ -11,3 +11,16 @@
 .h3{
     font-size: larger;
 }
+/* -----------------------------body----------------------- */
+/* -----------------------------BEST SALES START------------- */
+.best-sales-img img{
+    border-radius:10px ;
+    box-shadow: rgb(58, 55, 55);
+}
+.best-sale-text{
+    width: 90%;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+/* -----------------------------BEST SALES END------------- */
